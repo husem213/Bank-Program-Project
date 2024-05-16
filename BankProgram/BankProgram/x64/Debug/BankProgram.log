@@ -1,0 +1,7 @@
+﻿  BankProgram.cpp
+C:\Users\Houssem\source\repos\BankProgram\BankProgram\BankProgram.cpp(76,35): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Houssem\source\repos\BankProgram\BankProgram\BankProgram.cpp(100,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Houssem\source\repos\BankProgram\BankProgram\BankProgram.cpp(162,34): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Houssem\source\repos\BankProgram\BankProgram\BankProgram.cpp(486,37): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Houssem\source\repos\BankProgram\BankProgram\BankProgram.cpp(588,38): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+  BankProgram.vcxproj -> C:\Users\Houssem\source\repos\BankProgram\x64\Debug\BankProgram.exe
